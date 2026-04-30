@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Editor / IDE
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Obsidian — local UI state (not meant to be shared across machines)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# Obsidian community plugins (can be reinstalled via Obsidian)
+.obsidian/plugins/
+
+# Optional: ignore large local attachments cache if it ever appears
+.obsidian/cache/
+
+# If you ever add a private notes scratchpad folder, uncomment:
+# private/
+# scratch/
